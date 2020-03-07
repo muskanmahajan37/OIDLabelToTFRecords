@@ -123,3 +123,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+OID/csv_folder/train-annotations-bbox.csv
+OID/csv_folder/train-annotations-bbox.csv
